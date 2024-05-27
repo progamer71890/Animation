@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+}
+
+#myCanvas {
+  border: black 2px solid;
+  background-color: #8fb8de;
+}
+
+#rainbow {
+  display: none;
+}
+
+#balloon {
+  display: none;
+}
+
+#airplane {
+  display: none;
+}
